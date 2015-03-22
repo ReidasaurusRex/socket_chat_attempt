@@ -1,0 +1,11 @@
+{
+  "name": "redis_socket_chat",
+  "version": "1.0.0",
+  "description": "A node based app exploring redis data structures and socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ReidasaurusRex",
+  "license": "ISC"
+}
